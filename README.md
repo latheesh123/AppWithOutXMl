@@ -24,3 +24,12 @@ navigation bar which will query the RSS feed and refresh the screen.
  screen with the title of the article displayed in the navigation bar.
 
 “?displayMobileNavigation=0” is appended to each article’s link.
+
+
+![alt text](https://github.com/latheesh123/AppWithOutXMl/blob/master/page1.png)
+
+
+![alt text](https://github.com/latheesh123/AppWithOutXMl/blob/master/page2.png)
+
+
+![alt text](https://github.com/latheesh123/AppWithOutXMl/blob/master/page3.png)
