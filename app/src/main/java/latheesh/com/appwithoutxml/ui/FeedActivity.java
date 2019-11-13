@@ -71,7 +71,7 @@ public class FeedActivity extends AppCompatActivity {
 
         //Refresh Menu Item
         menu.add(Menu.NONE, R.id.menu_refresh, Menu.NONE, "Refresh")
-                .setIcon(android.R.drawable.ic_menu_rotate)
+                .setIcon(R.mipmap.baseline_cached_black_36)
                 .setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
 
         return true;
