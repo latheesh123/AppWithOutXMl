@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppWithoutXML</string>
+
+    <string name="rss_feed_url">https://www.personalcapital.com/blog/feed/</string>
+
+    <string name="iv_content_description">Image View Content Description</string>
+
+    <item name="row_title" type="id" />
+    <item name="row_media_content" type="id" />
+    <item name="row_description" type="id" />
+    <item name="row_pub_date" type="id" />
+    <item name="row_link" type="id" />
+
+    <string name="web_view_display_mode">displayMobileNavigation=0</string>
+
+</resources>

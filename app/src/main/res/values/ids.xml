@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="parentclass" type="id"/>
+    <item name="toolbar" type="id"/>
+
+    <item name="cl_activity_main" type="id" />
+    <item name="fragment_main" type="id" />
+
+    <item name="swipe_refresh" type="id" />
+    <item name="recycler_view" type="id" />
+    <item name="menu_refresh" type="id" />
+
+    <item name="wv_web_view" type="id" />
+</resources>

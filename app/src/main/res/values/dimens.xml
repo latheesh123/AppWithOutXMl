@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="view_padding">8dp</dimen>
+    <dimen name="card_view_max_height">240dp</dimen>
+    <dimen name="card_view_image_max_height">120dp</dimen>
+
+    <dimen name="card_view_margin">8dp</dimen>
+    <dimen name="card_view_elevation">2dp</dimen>
+
+    <dimen name="margin">16dp</dimen>
+
+
+</resources>
